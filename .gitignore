@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 /bin
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> branch 'master' of https://github.com/Vignal-Fanny/Jo--Naf-.git
